@@ -1,0 +1,4 @@
+﻿  MainGame.cpp
+D:\UPC\CICLO 2024-1\Fundamentos de Teoria de Juegos\Motor\Motor\MainGame.cpp(35,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UPC\CICLO 2024-1\Fundamentos de Teoria de Juegos\Motor\Motor\MainGame.cpp(54,67): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Motor.vcxproj -> D:\UPC\CICLO 2024-1\Fundamentos de Teoria de Juegos\Motor\x64\Debug\Motor.exe
