@@ -1,1 +1,2 @@
-## TA01 en la rama TA01
+# Fundamentos de la Teoria de Juegos - CC192
+## Profesor: Luis Alberto Valdivia Humareda
